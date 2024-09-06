@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [blog-card](https://github.com/nickmwangemi/blog-card)
-- Live Site URL: [blog-card](https://nickmwangemi.github.io/blog-card/)
+- Live Site URL: [blog-card](https://nickmwangemi.github.io/blog-card/){:target="_blank"}
 
 ## My process
 
